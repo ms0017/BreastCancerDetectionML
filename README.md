@@ -8,3 +8,6 @@ Uses four machine learning approaches:<br/>
     Decision Tree<br/>
     Support Vector Machine<br/>
 """
+![breat_cancer_pairplot](https://user-images.githubusercontent.com/49726134/109427800-b1925500-79b9-11eb-885c-7fbdbf5173b9.png)
+
+![breast_cancer_heatmap](https://user-images.githubusercontent.com/49726134/109427805-b5be7280-79b9-11eb-84d6-0238634befbd.png)
