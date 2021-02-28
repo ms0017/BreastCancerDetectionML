@@ -2,9 +2,9 @@
 """<br/>
 A simple python project to detect breast cancer from image scans<br/>
 This project primarily use sklearn, numpy, seaborn,and pandas<br/>
-Uses four machine learning approaches:<br/>
+<h2>Used four machine learning approaches:</h2><br/>
     Neural Networks: 99% accuracy<br/>
-    Logistic Regression 98% accuracy<br/>
+    Logistic Regression: 98% accuracy<br/>
     Decision Tree 92% accuracy<br/>
     Support Vector Machine 98% accuracy<br/>
 """
